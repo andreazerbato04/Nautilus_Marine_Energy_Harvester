@@ -1,3 +1,4 @@
  # List of component #
 Solar Pannel
-https://mail.google.com/mail/u/0?ui=2&ik=71ea51fe21&attid=0.1&permmsgid=msg-f:1871155626356028904&th=19f7ae20dc6cb5e8&view=att&zw&disp=safe
+<img width="1512" height="1619" alt="IMG_5574 (1)" src="https://github.com/user-attachments/assets/f7b577d7-8df3-4fa8-b18c-797d23134b5d" />
+
