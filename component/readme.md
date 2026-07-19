@@ -1,1 +1,1 @@
- # Pannello solare #
+ # List of component #
