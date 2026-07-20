@@ -6,4 +6,5 @@
 <tr><td>18650 BATTERY HOLDER</td> <td>0,20€</td></tr>
 <tr><td>18650 BATTERY</td> <td>5,35€</td></tr>
 <tr><td>SCHOTTKY DIODES 1N5822</td> <td>2,40€</td></tr>
+<tr><td>CAPACITOR 1000µF 25V</td> <td>2,63€</td></tr>
 <tr><th><h3>TOTAL</h3></th> <th> <h3>29,79€</h3></th></tr></table>
