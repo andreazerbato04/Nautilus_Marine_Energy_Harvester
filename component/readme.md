@@ -38,7 +38,7 @@
 <h3><b>TP4056</b></h3>
 
 
-<img width="1512" height="1026" alt="IMG_5582" src="https://github.com/user-attachments/assets/e0678875-671d-44b5-923f-c55f13404725" />
+<img width="1312" height="1302" alt="IMG_5649 (1)" src="https://github.com/user-attachments/assets/80488895-e9f0-4963-9adb-50ce627f3c94" />
 
 
 <h3><a href="https://it.aliexpress.com/item/1005009635476640.html?spm=a2g0o.productlist.main.7.52ad2274nu6vQs&algo_pvid=a6f26640-3280-44e5-a6e0-63e1eb39a3d8&algo_exp_id=a6f26640-3280-44e5-a6e0-63e1eb39a3d8-6&pdp_ext_f=%7B%22order%22%3A%223669%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%213.46%210.88%21%21%2126.84%216.81%21%402103834817753222639426818e4665%2112000049718588302%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A20a12571%3Bm03_new_user%3A-29895%3BpisId%3A5000000203734487&curPageLogUid=R3pqB70ZqnGy&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009635476640%7C_p_origin_prod%3A">Buy it</a></h3>
