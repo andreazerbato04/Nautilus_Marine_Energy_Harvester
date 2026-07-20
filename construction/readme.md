@@ -9,3 +9,5 @@
   <li>wire cutters</li>
   <li>electrical tape</li>
 </ul>
+<h2>COMPONET</h2>
+<b>AC Motor:</b>
