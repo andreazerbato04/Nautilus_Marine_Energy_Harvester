@@ -1,5 +1,5 @@
 <table> <tr><th><h3>PRODUCT</h3></th> <th> <h3>COST</h3></th></tr>
-<tr><td>SOLAR PANNEL</td> <td></td>6,69€ </tr>
+<tr><td>SOLAR PANNEL</td> <td>6,69€</td></tr>
 <tr><td>BUCK-BOOST LM2577S LM2596S</td> <td>2,99€</td></tr>
 <tr><td>DC MOTOR 12V</td> <td>9,57€</td></tr>
 <tr><td>TP4056</td> <td>2,59€</td></tr>
