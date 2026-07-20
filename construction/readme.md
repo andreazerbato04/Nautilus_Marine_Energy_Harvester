@@ -10,4 +10,6 @@
   <li>electrical tape</li>
 </ul>
 <h2>COMPONET</h2>
-<b>AC Motor:</b>
+<b>AC Motor:</b> we use the AC motor to simulate the pendolum's oscillation and test the circuit
+<b>AC Motor:</b> we use the AC motor to simulate the pendolum's oscillation and test the circuit
+
