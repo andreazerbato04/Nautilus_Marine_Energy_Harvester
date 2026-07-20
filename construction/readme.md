@@ -10,5 +10,7 @@
   <li>electrical tape</li>
 </ul>
 <h2>COMPONET</h2>
-<b>AC Motor:</b> an AC motor to simulate the pendolum's oscillation and test the circuit
-<b>TP4056:</b> a chip use to safe charging the bacteries and monitoring the cells voltage to stay under 4,2V 
+<ul>
+<li><b>AC Motor:</b> an AC motor to simulate the pendolum's oscillation and test the circuit</li>
+<li><b>TP4056:</b> a chip use to safe charging the bacteries and monitoring the cells voltage to stay under 4,2V </li>
+</ul>
