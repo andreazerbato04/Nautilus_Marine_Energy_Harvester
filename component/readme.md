@@ -67,3 +67,16 @@
 
 
 <h3><a href="https://it.aliexpress.com/item/1005009169267221.html?spm=a2g0o.productlist.main.9.7ee265b78gKIBz&algo_pvid=f0da2192-f521-4313-a38e-af1c7d12e1e1&algo_exp_id=f0da2192-f521-4313-a38e-af1c7d12e1e1-8&pdp_ext_f=%7B%22order%22%3A%2246%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%214.70%212.35%21%21%2135.58%2117.79%21%4021613a6017845423161858864e0edd%2112000048180919078%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A20a12571%3Bm03_new_user%3A-29895&curPageLogUid=n0F5mkgpgFFz&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009169267221%7C_p_origin_prod%3A">Buy it</a></h3>
+
+
+
+
+
+<h3><b>SCHOTTKY DIODES 1N5822 </b></h3>
+
+
+<img width="1510" height="1296" alt="IMG_5650" src="https://github.com/user-attachments/assets/5929ceb0-f270-4266-9668-827853201cb6" />
+
+
+<h3><a href="https://it.aliexpress.com/item/1005011739179176.html?spm=a2g0o.productlist.main.5.7b10NhPwNhPwRI&algo_pvid=35d80667-98fe-41a3-9b1b-55b4b8c6c41a&algo_exp_id=35d80667-98fe-41a3-9b1b-55b4b8c6c41a-4&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%214.40%210.86%21%21%2134.50%216.70%21%402103985c17762476917021640e3b45%2112000056401713046%21sea%21IT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A20a12571%3Bm03_new_user%3A-29895%3BpisId%3A5000000203734487&curPageLogUid=hHSGIZ5h3uVZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011739179176%7C_p_origin_prod%3A">Buy it</a></h3>
+
