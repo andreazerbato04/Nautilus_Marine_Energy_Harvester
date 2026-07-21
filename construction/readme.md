@@ -22,7 +22,7 @@
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage </li> 
 </ul>
 <h2>CIRCUIT</h2>
-The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes togheter for the DC negative output and two cathodes togheter for the DC positive output, we connect one cathodes and one anodes for the last two nodes, this is the entrance of the pendolum, as shown in this picture      <br>       
+The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes togheter for the DC negative output and two cathodes togheter for the DC positive output, we connect one cathodes and one anodes for the last two nodes, this is for the positive and negative plarity of the pendolum, as shown in this picture      <br>       
  <br> 
 <img width="398" height="426" alt="IMG_5563 (1)" src="https://github.com/user-attachments/assets/4844aa12-62c6-4a07-8b76-ff2b87e9e82b" />
  <br>
