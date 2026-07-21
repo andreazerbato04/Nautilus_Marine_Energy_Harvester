@@ -7,7 +7,7 @@
 <li>pliers</li>
   <li>screwdrivers</li>
   <li>wire cutters</li>
-  <li>electrical tape</li>ù
+  <li>electrical tape</li>
   <li>jumper wires</li>
 </ul>
 <h2>COMPONET</h2>
