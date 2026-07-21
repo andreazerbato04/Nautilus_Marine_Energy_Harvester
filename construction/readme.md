@@ -25,5 +25,5 @@
 The first thing we want to do is the brige rectifier. We put four Schottky diodes 1N5822 becouse we want a low voltage drop ≈ 0,3V. We put two anhode of the diodes on one side and two cathod on the other side like this.       <br>       
 <img width="398" height="426" alt="IMG_5563 (1)" src="https://github.com/user-attachments/assets/4844aa12-62c6-4a07-8b76-ff2b87e9e82b" />
  <br>
-For the batteries pack we put three cells on parallel becouse we want a continuous load capability of 2A of courrent, every batterie can supply up 800mA of courrent 3x800mA=2400mA=2,4A
+For the batteries pack we put three cells on parallel becouse we want a continuous load capability of 2A of courrent, every batterie can supply up 800mA of courrent 3x800mA=2400mA=2,4A<br>
 We want to put on parallel the two sources. The first line is the solar pannel a dioed who prevent reverse courrent and a TP4056 who control the charge of the batteries.
