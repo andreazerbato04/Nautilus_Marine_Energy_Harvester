@@ -33,5 +33,5 @@ The second line is the AC motor (the pendulum) connected with the bridge rectifi
 Put the two TP4056 on parallel and connect all to the battery pack.<br>
 This is the rappresentation. The circuit is do on fritzing.<br><br>
 <img width="1632" height="777" alt="image" src="https://github.com/user-attachments/assets/22fce282-cb86-4b7f-bb91-088a20881fcb" /><br><br>
- The circuit is do on fritzing. You can download the file in this folder or tapping this link [Download `circuit with AC motor.fzz`](schematics/nautilus_circuit.fzz?raw=true)
+ The circuit was create fritzing. You can find the file in this folder and downolad it.
 <h2>OUR PROTOTYPE</h2>
