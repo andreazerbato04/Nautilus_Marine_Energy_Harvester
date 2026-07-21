@@ -27,7 +27,7 @@ The first thing we want to build is the bridge rectifier. We use four Schottky d
 <img width="398" height="426" alt="IMG_5563 (1)" src="https://github.com/user-attachments/assets/4844aa12-62c6-4a07-8b76-ff2b87e9e82b" />
  <br>
   <br> 
-For the battery pack we put three cells on parallel becouse we want a continuous load capability at least of 2A (becouse the maximum courrent of every TP4056 is 1A), every batterie can supply up 800mA of courrent 3x800mA=2400mA=2,4A<br>
+For the battery pack we put three cells on parallel becouse we want a continuous load capability at least of 2A (becouse the maximum courrent of every TP4056 is 1A), every battery can supply up 800mA of courrent 3x800mA=2400mA=2,4A<br>
 We want to put on parallel the two sources. The first line is the solar pannel a dioed who prevent reverse courrent and a TP4056 who control the charge of the batteries, we connect all with the jumper wires and after this solder every peace.<br>
 The second line is the AC motor (the pendolum) connected with the bridge rectifire after this we put the buck-boost, keep attention about the output voltage use the screw on the buck-boost to set on ≈ 5V, after this we connect the TP4056 connect all with the jumper wires and the sold all the pieces. <br>
 Put the two TP4056 on parallel and connect all to the battery pack.
