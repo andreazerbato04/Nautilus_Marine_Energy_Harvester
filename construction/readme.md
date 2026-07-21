@@ -3,7 +3,7 @@
 <ul>
   <li>soldering iron 
 </li> <br>  <img width="171" height="228" alt="0" src="https://github.com/user-attachments/assets/320ebfff-aa36-4ffd-9d0b-f234328d0c13" />   <br> 
-    <li>glue gun </li> <br> <img width="171" height="228" alt="IMG_5656" src="https://github.com/user-attachments/assets/2a996236-99f4-4a8b-9e5f-80cd7c6e241c" />  <br> 
+    <li>glue gun </li> <br> <img width="171" height="228" alt="IMG_5656" src="https://github.com/user-attachments/assets/2a996236-99f4-4a8b-9e5f-80cd7c6e241c" />  <br>  <br> 
  <li>pliers</li>
   <li>screwdrivers</li>
   <li>wire cutters</li>
