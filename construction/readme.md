@@ -21,3 +21,6 @@
 <li><b>TP4056:</b> a chip use to safe charging the bacteries and monitoring the cells voltage to stay under 4,2V </li> 
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage </li> 
 </ul>
+<h2>CIRCUIT</h2>
+The first thing we want to do is the brige rectifier. We put four Schottky diodes 1N5822 becouse we want a low voltage drop $V_F \approx 0.3 - 0.4 \text{ V}$
+We want to put on parallel the two sources. The first line is a
