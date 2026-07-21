@@ -10,7 +10,7 @@
   <li>electrical tape</li>
   <li>jumper wires</li>
 </ul>
-<h2>COMPONET</h2>
+<h2>COMPONENTS</h2>
 <ul>
 <li><b>AC Motor:</b> an AC motor to simulate the pendolum's oscillation and test the circuit</li>
 <li><b>Bridge rectifier:</b> it force the courrent and the tension to a pulsating direct courrent and tension, we use the diodes 1N5822 </li>
