@@ -22,7 +22,7 @@
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage </li> 
 </ul>
 <h2>CIRCUIT</h2>
-The first thing we want to do is the brige rectifier. We put four Schottky diodes 1N5822 becouse we want a low voltage drop ≈ 0,3V. We put two anhode of the diodes on one side and two cathod on the other side like this.       <br>       
+The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 becouse we want a low voltage drop ≈ 0,3V. We put two anodes on one side and two cathodes on the other, as shown in this picture      <br>       
 <img width="398" height="426" alt="IMG_5563 (1)" src="https://github.com/user-attachments/assets/4844aa12-62c6-4a07-8b76-ff2b87e9e82b" />
  <br>
 For the batteries pack we put three cells on parallel becouse we want a continuous load capability of 2A of courrent, every batterie can supply up 800mA of courrent 3x800mA=2400mA=2,4A<br>
