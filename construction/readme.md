@@ -12,7 +12,7 @@
 </ul>
 <h2>COMPONENTS</h2>
 <ul>
-<li><b>AC Motor:</b> an AC motor to simulate the pendolum's oscillation and test the circuit</li>
+<li><b>AC Motor:</b> an AC motor to simulate the pendulum's oscillation and test the circuit</li>
 <li><b>Bridge rectifier:</b> converts an alternating courrent in pulsating direct courrent, we use the diodes 1N5822 </li>
 <li><b> Capacitor 1000µF 25V:</b> it absorbe voltage spike and smooth the voltage to obtain a similar DC voltage </li>
 <li><b>Buck-Boost LM2577S LM2596S:</b> stabylize the tension on 5 V,the LM2577S act like a boost converter step up the voltage if is too lower and the LM2577S is a buck converter step down the voltage if is too high </li>
@@ -22,7 +22,7 @@
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage </li> 
 </ul>
 <h2>CIRCUIT</h2>
-The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes togheter for the DC negative output and two cathodes togheter for the DC positive output, we connect one cathodes and one anodes for the last two nodes, this is for the positive and negative plarity of the pendolum, as shown in this picture      <br>       
+The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes togheter for the DC negative output and two cathodes togheter for the DC positive output, we connect one cathode and one anode for the last two nodes, this is for the positive and negative polarity of the pendulum, as shown in this picture      <br>       
  <br> 
 <img width="398" height="426" alt="IMG_5563 (1)" src="https://github.com/user-attachments/assets/4844aa12-62c6-4a07-8b76-ff2b87e9e82b" />
  <br>
