@@ -22,8 +22,7 @@
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage </li> 
 </ul>
 <h2>CIRCUIT</h2>
-The first thing we want to do is the brige rectifier. We put four Schottky diodes 1N5822 becouse we want a low voltage drop ≈ 0,3V. We put two anhode of the diodes on one side and two cathod on the other side like this.              
-
+The first thing we want to do is the brige rectifier. We put four Schottky diodes 1N5822 becouse we want a low voltage drop ≈ 0,3V. We put two anhode of the diodes on one side and two cathod on the other side like this.       <br>       
 <img width="398" height="426" alt="IMG_5563 (1)" src="https://github.com/user-attachments/assets/4844aa12-62c6-4a07-8b76-ff2b87e9e82b" />
  
 We want to put on parallel the two sources. The first line is a
