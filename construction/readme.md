@@ -37,5 +37,5 @@ This is the rappresentation. The circuit is do on fritzing.<br><br>
 
 
  The circuit was create using fritzing. You can find the file in this folder and downolad it or use this <a href="https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/blob/main/construction/circuit%20with%20AC%20motor.fzz">link </a> <br>
- If I want to see how the circuit change in respond at the input voltage click this link or find in the folder [🔌 Apri il simulatore del circuito in esecuzione](https://htmlpreview.github.io/?https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/blob/main/construction/test%20circuit.html)
+ If I want to see how the circuit change in respond at the input voltage click this <a href="https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/blob/main/construction/circuit%20with%20AC%20motor.fzz">link </a>to see and download the code <br>
 <h2>OUR PROTOTYPE</h2>
