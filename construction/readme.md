@@ -16,7 +16,7 @@
 <li><b>Bridge rectifier:</b> converts an alternating courrent in pulsating direct courrent, we use the diodes 1N5822 </li>
 <li><b> Capacitor 1000µF 25V:</b> it absorbe voltage spike and smooth the voltage to obtain a similar DC voltage </li>
 <li><b>Buck-Boost LM2577S LM2596S:</b> stabylize the tension on 5 V,the LM2577S act like a boost converter step up the voltage if is too lower and the LM2577S is a buck converter step down the voltage if is too high </li>
-<li><b>Solar Panel:</b> generate DC courrent when is exposed to sunlight </li>
+<li><b>Solar Panel:</b> generate DC voltage when is exposed to sunlight </li>
 <li><b>Schottky diode 1N5822:</b> prevent the return of the courrent on the solar pannel with a low voltage drop</li>
 <li><b>TP4056:</b> a module use to safe charging the batteries and monitoring the cells voltage to stay under 4,2V. There is two led the first, the red one, is on if the battery is charging, the second, the blue one, is on if the battery is full charge at 4,2V </li> 
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage. </li> 
