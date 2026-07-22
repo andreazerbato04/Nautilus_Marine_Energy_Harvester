@@ -32,8 +32,8 @@ We want to put on parallel the two sources. The first line is the solar panel a 
 The second line is the AC motor (the pendulum) connected with the bridge rectifier and a capacitor in parallel for smmoth the voltage ripple, after this we put the buck-boost, pay attention to the output voltage use the screw on the buck-boost to set it to ≈ 5V, after this we connect the TP4056 connect all with the jumper wires and the solder all the component. <br>
 Put the two TP4056 on parallel and connect all to the battery pack.<br>
 This is the rappresentation. The circuit is do on fritzing.<br><br>
-<img width="1632" height="777" alt="image" src="https://github.com/user-attachments/assets/22fce282-cb86-4b7f-bb91-088a20881fcb" /><br><br>
-<img width="1876" height="797" alt="image" src="https://github.com/user-attachments/assets/317325f4-4d95-4016-8b85-7f95bdfe9d20" />
+
+<img width="1876" height="797" alt="image" src="https://github.com/user-attachments/assets/317325f4-4d95-4016-8b85-7f95bdfe9d20" /><br><br>
 
 
  The circuit was create using fritzing. You can find the file in this folder and downolad it or use this <a href="https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/blob/main/construction/circuit%20with%20AC%20motor.fzz">link </a> <br>
