@@ -9,7 +9,7 @@
   <li>wire cutters</li>
   <li>electrical tape</li>
   <li>jumper wires</li>
-</ul> <br>  
+</ul>   
 <h2>COMPONENTS</h2>
 <ul>
 <li><b>AC Motor:</b> an AC motor to simulate the pendulum's oscillation and test the circuit</li>
@@ -20,7 +20,7 @@
 <li><b>Schottky diode 1N5822:</b> prevent the return of the courrent on the solar pannel with a low voltage drop</li>
 <li><b>TP4056:</b> a module use to safe charging the batteries and monitoring the cells voltage to stay under 4,2V. There is two led the first the red one is on if the bactery is on charge the second the blue one is on if the battery is full charge at 4,2V </li> 
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage </li> 
-</ul> <br>  
+</ul> 
 <h2>CIRCUIT</h2>
 The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes togheter for the DC negative output and two cathodes togheter for the DC positive output, we connect one cathode and one anode for the last two nodes, this is for the positive and negative polarity of the pendulum, as shown in this picture      <br>       
  <br> 
