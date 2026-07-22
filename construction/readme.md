@@ -33,7 +33,8 @@ The second line is the AC motor (the pendulum) connected with the bridge rectifi
 Put the two TP4056 on parallel and connect all to the battery pack.<br>
 This is the rappresentation. The circuit is do on fritzing.<br><br>
 <img width="1632" height="777" alt="image" src="https://github.com/user-attachments/assets/22fce282-cb86-4b7f-bb91-088a20881fcb" /><br><br>
-<img width="1901" height="822" alt="image" src="https://github.com/user-attachments/assets/156e5b89-9490-420f-9eb1-fb544d51619f" />
+<img width="1876" height="797" alt="image" src="https://github.com/user-attachments/assets/317325f4-4d95-4016-8b85-7f95bdfe9d20" />
+
 
  The circuit was create using fritzing. You can find the file in this folder and downolad it or use this <a href="https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/blob/main/construction/circuit%20with%20AC%20motor.fzz">link </a>
 <h2>OUR PROTOTYPE</h2>
