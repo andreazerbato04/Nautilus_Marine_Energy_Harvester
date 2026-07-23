@@ -15,4 +15,4 @@ A fully custom 3D-printed rotational unbalanced mass electromagnetic harvester, 
 https://github.com/osrf/mbari_wec<br>
 https://github.com/osrf/mbari_wec_gz<br>
 https://github.com/osrf/mbari_wec_utils<br><br>
-<br><br>The MBARI Wave Energy Converter simulation framework — implemented in the Gazebo robotics simulator with full hydrodynamic modelling — provides validated mathematical tools for simulating buoy power take off dynamics. This framework can be used to numerically verify the expected energy yield of the Nautilus Harvester pendulum under Venice Lagoon wave conditions.</li>
+The MBARI Wave Energy Converter simulation framework — implemented in the Gazebo robotics simulator with full hydrodynamic modelling — provides validated mathematical tools for simulating buoy power take off dynamics. This framework can be used to numerically verify the expected energy yield of the Nautilus Harvester pendulum under Venice Lagoon wave conditions.</li>
