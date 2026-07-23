@@ -1,4 +1,4 @@
- # COMPONENTS#
+ # COMPONENTS #
 <h3><b>SOLAR PANNEL</b></h3>
 
 
