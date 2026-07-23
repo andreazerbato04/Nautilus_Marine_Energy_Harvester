@@ -11,7 +11,7 @@ The most complete open-source reference for a marine IoT buoy is the Smart Buoy 
 <li><b><h3>Rotational EMG Harvester </h3></b>
 https://github.com/tiandahuang/keh-har-sensor<br><br>
 A fully custom 3D-printed rotational unbalanced mass electromagnetic harvester, designed originally for wearable human motion sensing, provides directly applicable CAD geometry and PCB design for the Nautilus Harvester's generator module. The rotor, stator, magnet placement, and custom rectifier PCB from this project serve as the scaling reference for the buoy-scale pendulum design. <br><br></li>
-<li><b><h3>MBARI Wave energy converter: </h3><br></b>
+<li><b><h3>MBARI Wave energy converter: </h3></b>
 https://github.com/osrf/mbari_wec<br>
 https://github.com/osrf/mbari_wec_gz<br>
 https://github.com/osrf/mbari_wec_utils<br><br>
