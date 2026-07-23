@@ -7,7 +7,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0360544222007861?via%3Dih
   https://github.com/sk-t3ch/smart-buoy/tree/master/docs</li>
 <li><b> Rotational EMG Harvester</b>
 https://github.com/tiandahuang/keh-har-sensor</li>
-<li><b>MBARI Wave energy converter</b>
+<li><b>MBARI Wave energy converter: <br></b>
 https://github.com/osrf/mbari_wec
 https://github.com/osrf/mbari_wec_gz
 https://github.com/osrf/mbari_wec_utils</li>
