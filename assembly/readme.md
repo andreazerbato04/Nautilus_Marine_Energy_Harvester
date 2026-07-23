@@ -12,15 +12,16 @@
 </ul>   
 <h2>COMPONENTS</h2>
 <ul>
-<li><b>AC Motor:</b> an AC motor to simulate the pendulum's oscillation and test the circuit</li>
-<li><b>Bridge rectifier:</b> converts an alternating courrent in pulsating direct courrent, we use the diodes 1N5822 </li>
-<li><b> Capacitor 1000µF 25V:</b> it absorbe voltage spike and smooth the voltage to obtain a similar DC voltage </li>
-<li><b>Buck-Boost LM2577S LM2596S:</b> stabylize the tension on 5 V,the LM2577S act like a boost converter step up the voltage if is too lower and the LM2577S is a buck converter step down the voltage if is too high </li>
-<li><b>Solar Panel:</b> generate DC voltage when is exposed to sunlight </li>
-<li><b>Schottky diode 1N5822:</b> prevent the return of the courrent on the solar pannel with a low voltage drop</li>
-<li><b>TP4056:</b> a module use to safe charging the batteries and monitoring the cells voltage to stay under 4,2V. There is two led the first, the red one, is on if the battery is charging, the second, the blue one, is on if the battery is full charge at 4,2V </li> 
+<li><b>AC Motor:</b> an AC motor to simulate the pendulum's oscillation and test the circuit.</li>
+<li><b>Bridge rectifier:</b> converts an alternating courrent in pulsating direct courrent, we use the diodes 1N5822. </li>
+<li><b> Capacitor 1000µF 25V:</b> it absorbe voltage spike and smooth the voltage to obtain a similar DC voltage. </li>
+<li><b>Buck-Boost LM2577S LM2596S:</b> stabylize the tension on 5 V,the LM2577S act like a boost converter step up the voltage if is too lower and the LM2577S is a buck converter step down the voltage if is too high. </li>
+<li><b>Solar Panel:</b> generate DC voltage when is exposed to sunlight. </li>
+<li><b>Schottky diode 1N5822:</b> prevent the return of the courrent on the solar pannel with a low voltage drop.</li>
+<li><b>TP4056:</b> a module use to safe charging the batteries and monitoring the cells voltage to stay under 4,2V. There is two led the first, the red one, is on if the battery is charging, the second, the blue one, is on if the battery is full charge at 4,2V. </li> 
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utylize to energy storage. </li> 
 </ul> 
+If you wish to purchase the exact component used for this project click this <a href="https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/tree/main/components">link </a> <br>
 <h2>CIRCUIT</h2>
 The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes togheter for the DC negative output and two cathodes togheter for the DC positive output, we connect one cathode and one anode for the last two nodes, this is for the positive and negative polarity of the pendulum, as shown in this picture      <br>       
  <br> 
