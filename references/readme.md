@@ -8,6 +8,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S0360544222007861?via%3Dih
 <li><b> Rotational EMG Harvester</b>
 https://github.com/tiandahuang/keh-har-sensor</li>
 <li><b>MBARI Wave energy converter: <br></b>
-https://github.com/osrf/mbari_wec
-https://github.com/osrf/mbari_wec_gz
+https://github.com/osrf/mbari_wec<br>
+https://github.com/osrf/mbari_wec_gz<br>
 https://github.com/osrf/mbari_wec_utils</li>
