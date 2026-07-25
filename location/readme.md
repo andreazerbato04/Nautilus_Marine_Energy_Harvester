@@ -5,7 +5,7 @@ The lagoon is charaterized by a shallow water, infact the avarage water depth is
 Presents three inlets from the sea lido, mallamocco e chioggia every one present the MOSE system, a major infrastructure project based on 78 mobile flap barriers.<br>
 This carachteristic fit well with ou project, in fact in the Venice lagoon the avarge high of the waves is 0,1-0,5 m less then the 1,0 -1,5 m avarage of the mar Mediterraneo. For this reason is easier to project a buoy more stable and safe, on the other hand the power of the pendulum is less.<br>
 <h1> THE VENICE RISKS</h1>
-As we say is essential to keep information about Venice because the city have a lot of hazard.
-<ul><li>The acqua alta, usually on Venice there floods and with the increasing of the water deepth for the climate change this problem can only increase, is important to take information to understand the pattern and use correctly the MOSE system</li>
+As we say, continuous essential monitoring is essential to protect Venice from its main structural and enviromental hazard.
+<ul><li><b>The acqua alta</b>, usually on Venice there floods and with the increasing of the water deepth for the climate change this problem can only increase, is important to take information to understand the pattern and use correctly the MOSE system</li>
 <li>The alteration of the water quality can spped up the erosion of the structure of the city of Venice, is important to use a sensor for the water quality </li>
 <li>The antropic effect of crossing of the boat create waves with energy and this waves destroy the foundaetion of the Venice's palace, we can put a sensor for this waves</li></ul>
