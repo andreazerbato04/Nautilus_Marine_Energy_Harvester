@@ -6,6 +6,6 @@ Presents three inlets from the sea lido, mallamocco e chioggia every one present
 This carachteristic fit well with ou project, in fact in the Venice lagoon the avarge high of the waves is 0,1-0,5 m less then the 1,0 -1,5 m avarage of the mar Mediterraneo. For this reason is easier to project a buoy more stable and safe, on the other hand the power of the pendulum is less.<br>
 <h1> THE VENICE RISKS</h1>
 As we say, continuous essential monitoring is essential to protect Venice from its main structural and enviromental hazard.
-<ul><li><b>The acqua alta</b>, usually on Venice there floods and with the increasing of the water deepth for the climate change this problem can only increase, is important to take information to understand the pattern and use correctly the MOSE system</li>
-<li>The alteration of the water quality can spped up the erosion of the structure of the city of Venice, is important to use a sensor for the water quality </li>
-<li>The antropic effect of crossing of the boat create waves with energy and this waves destroy the foundaetion of the Venice's palace, we can put a sensor for this waves</li></ul>
+<ul><li><b>Acqua alta:</b> Venice is subject to frequently flooding and with the increasing of the water deepth for the climate change this problem can only increase,collecting information is crucialto understand the flood and menaging the MOSE barrier effectvily.</li>
+<li><b>Water quality and structural degradation:</b>The alteration of the water quality can speed up the chemical and bilogical erosion of the city's storical foundation. Use water quality sensor allow to trak this change and track the structural risks. </li>
+<li><b>Anthropogenic waves:</b>High motorboat traffic creates continuous, high-energy wake waves that directly erode salt marshes (*barene*) and damage palace foundations. Deploying wave sensors helps measure this energy impact in real time.</li></ul>
