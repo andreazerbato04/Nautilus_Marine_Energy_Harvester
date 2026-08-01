@@ -4,6 +4,9 @@ The natilus project has started, but there is more work to do before a real buoy
  <b> The sensor:</b> selecting and testing the perfect sensor for water quility monitoring, like ph or salinity, and hydrodynamic measurament like wave height and frequency. We have to use a low power sensor and we have to check the energy of the solar panel and the pendulum is enough.
 </li>
 <br><li>
-<b>Power optimization:</b>
+<b>Power optimization:</b> We can analyze a better component more expensive and with less leaks.
+</li></ul>
+<br><li>
+<b>Mechancial buoy design:</b> Create a buoy waterproof and with a hydrodynamic stability with the perfect dimension for the pendulum and with in top the solar panel.
 </li></ul>
 
