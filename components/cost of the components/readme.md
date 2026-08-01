@@ -8,4 +8,4 @@
 <tr><td>SCHOTTKY DIODES 1N5822</td> <td>2,40€</td></tr>
 <tr><td>CAPACITOR 1000µF 25V</td> <td>2,63€</td></tr>
 <tr><th><h3>TOTAL</h3></th> <th> <h3>32,42€</h3></th></tr></table>
-<br><h3>*A lot of this peaces is more, for exemple we buy ten TP4056 for 2,59€ but we need only two of them.</h3>
+<br><h3>*A lot of this peaces is more than what we need, for exemple we buy ten TP4056 for 2,59€ but we need only two of them.</h3>
