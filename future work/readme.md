@@ -5,7 +5,7 @@ The natilus project has started, but there is more work to do before a real buoy
 </li>
 <br><li>
 <b>Power optimization:</b> We can analyze a better component more expensive and with less leaks.
-</li></ul>
+</li>
 <br><li>
 <b>Mechancial buoy design:</b> Create a buoy waterproof and with a hydrodynamic stability with the perfect dimension for the pendulum and with in top the solar panel.
 </li></ul>
