@@ -32,7 +32,7 @@ For the battery pack, we put three cells in parallel because we want a continuou
 We connected the two harevsting souce in parallel through their respective charging lines:<br><br>  <ul><li><b> The first line consist of:</b> the solar panel, a diode who prevent reverse courrent and a TP4056 who control the charge of the batteries,in this order, we connect all with the jumper wires and after a rapid check we solder all component.<br></li>
 <li><b>The second line consist of:</b> the AC motor (the pendulum) connected with the bridge rectifier and a capacitor in parallel for smooth the voltage ripple, the buck-boost, pay attention to the output voltage use the screw on the buck-boost to set it to ≈ 5V, the TP4056 connect all with the jumper wires and solder all the component. <br></li></ul>
 Put the two TP4056 on parallel and connect all to the battery pack.<br>
-This is the rappresentation. The circuit is do on fritzing, we can see the buck-boost converter is the SDB628 in the reality we use the LM2577S+LM2596S<br><br>
+This is the rappresentation. The circuit was created using fritzing. Note in the rappresentation the buck-boost converter is the SDB628 in the reality we use the LM2577S+LM2596S<br><br>
 
 <img width="1876" height="797" alt="image" src="https://github.com/user-attachments/assets/317325f4-4d95-4016-8b85-7f95bdfe9d20" /><br><br>
 
