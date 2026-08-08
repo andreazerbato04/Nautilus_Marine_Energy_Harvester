@@ -29,8 +29,8 @@ The first thing we want to build is the bridge rectifier. We use four Schottky d
  <br>
   <br> 
 For the battery pack, we put three cells in parallel because we want a continuous load capability at least 2A (becouse the maximum current of every TP4056 is 1A), every battery can supply up 800mA of courrent 3x800mA=2400mA=2,4A<br>
-We connected the two harevsting souce in parallel through their respective charging lines:<br> <ul><li> The first line consist of: the solar panel, a diode who prevent reverse courrent and a TP4056 who control the charge of the batteries,in this order, we connect all with the jumper wires and after a rapid check we solder all component.<br></li>
-<li>The second line consist of: the AC motor (the pendulum) connected with the bridge rectifier and a capacitor in parallel for smooth the voltage ripple, the buck-boost, pay attention to the output voltage use the screw on the buck-boost to set it to ≈ 5V, the TP4056 connect all with the jumper wires and solder all the component. <br></li></ul>
+We connected the two harevsting souce in parallel through their respective charging lines:<br> <ul><li><b> The first line consist of:</b> the solar panel, a diode who prevent reverse courrent and a TP4056 who control the charge of the batteries,in this order, we connect all with the jumper wires and after a rapid check we solder all component.<br></li>
+<li><b>The second line consist of:</b> the AC motor (the pendulum) connected with the bridge rectifier and a capacitor in parallel for smooth the voltage ripple, the buck-boost, pay attention to the output voltage use the screw on the buck-boost to set it to ≈ 5V, the TP4056 connect all with the jumper wires and solder all the component. <br></li></ul>
 Put the two TP4056 on parallel and connect all to the battery pack.<br>
 This is the rappresentation. The circuit is do on fritzing, we can see the buck-boost converter is the SDB628 in the reality we use the LM2577S+LM2596S<br><br>
 
