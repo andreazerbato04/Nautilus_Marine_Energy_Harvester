@@ -8,4 +8,4 @@
 <tr><td>SCHOTTKY DIODES 1N5822</td> <td>2,40€</td></tr>
 <tr><td>CAPACITOR 1000µF 25V</td> <td>2,63€</td></tr>
 <tr><th><h3>TOTAL</h3></th> <th> <h3>32,42€</h3></th></tr></table>
-<br><h3>*Note: The listed total reflects multi-pack purchases (e.g., a 10-pack of TP4056 modules for €2.59, despite only using two). Consequently, the actual per-unit cost for a single prototype is significantly lower.</h3>
+<br><h3>*Note: The listed total reflects multi pack purchases (a 10-pack of TP4056 modules for €2.59, despite only using two). Consequently, the actual per unit cost for a single prototype is significantly lower.</h3>
