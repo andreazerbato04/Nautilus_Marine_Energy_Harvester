@@ -5,5 +5,6 @@ The Nautilus project is an hybrid architecture, wich couples a solar panel with 
 The complementarity of this surce give us the possibility to significantly reduce the battery storage.
 <h2>TECHNOLOGY SELECTION</h2>
 During the inital desing phase, we analizy different surce including piezoelectric, bentich microbial fuel cells and triboeletric nanogenerators. The cuple solar panel with electromagnetic pendulum emerge as the only viable candiates for the Venice lagoon caracteristic. For the low cost and maintenance in the buoy.
+<h2>MECHANICAL ARCHITECTURE</h2>
 <br><br>
 <img width="700" height="453" alt="image" src="https://github.com/user-attachments/assets/7e3cd568-326c-4f2e-bcc4-3000ab3bda06" />
