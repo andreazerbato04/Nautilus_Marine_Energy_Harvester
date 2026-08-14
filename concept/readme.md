@@ -6,7 +6,7 @@ The complementarity of this surce give us the possibility to significantly reduc
 <h2>TECHNOLOGY SELECTION</h2>
 During the inital desing phase, we analizy different surce including piezoelectric, bentich microbial fuel cells and triboeletric nanogenerators. The cuple solar panel with electromagnetic pendulum emerge as the only viable candiates for the Venice lagoon caracteristic. For the low cost and maintenance in the buoy.
 <h2>MECHANICAL ARCHITECTURE</h2>
-We can divide the internal architecture in three part:<br>
+We can divide the internal architecture in three part:<br><br>
 <ul><li>
  The upper part a waterproof part contein the majority of the electronic part like the solar pannel, the battery pack, the tp4056 and the sensor part.
 </li>
