@@ -7,5 +7,15 @@ The complementarity of this surce give us the possibility to significantly reduc
 During the inital desing phase, we analizy different surce including piezoelectric, bentich microbial fuel cells and triboeletric nanogenerators. The cuple solar panel with electromagnetic pendulum emerge as the only viable candiates for the Venice lagoon caracteristic. For the low cost and maintenance in the buoy.
 <h2>MECHANICAL ARCHITECTURE</h2>
 We can divide the internal architecture in three part:
+<ul><li>
+  Upper part a waterproof part contein the majority of the electronic part like the solar pannel, the battery pack, the tp4056 and the sensor part.
+</li>
+<li>
+  Middle part contein the electromagnetic pendulum with a swing range of up to ± 30° the pendulum have permanent magnet to create a magnetic field.
+</li>
+  <li>
+    Bottom part have to purpoise the first is the electromagnetic power generator composed of potted flat copper induction coils and the second and keep the center of gravity under the center of the solid for keep the buoy in the right postion.
+  </li>
+</ul>
 <br><br>
 <img width="700" height="453" alt="image" src="https://github.com/user-attachments/assets/7e3cd568-326c-4f2e-bcc4-3000ab3bda06" />
