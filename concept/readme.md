@@ -8,13 +8,13 @@ During the inital desing phase, we analizy different surce including piezoelectr
 <h2>MECHANICAL ARCHITECTURE</h2>
 We can divide the internal architecture in three part:<br><br>
 <ul><li>
- The upper section a waterproof part contein the majority of the electronic part like the solar pannel, the battery pack, the tp4056 and the sensor part.
+ The upper section is a waterproof compartment contains the majority of the electronic part like the solar panel, the battery pack, the tp4056 and the sensor part.
 </li>
 <li>
-  The middle section contein the electromagnetic pendulum with a swing range of up to ± 30° the pendulum have permanent magnet on the arm to create a magnetic field.
+  The middle section contein the electromagnetic pendulum with a swing range of up to ± 30° the pendulum has permanent magnets on the arm to create a moving magnetic field.
 </li>
   <li>
-    The bottom section serves a dual purpose: electromagnetic power generation and center of gravity management. A flat copper induction coil and the last part of the pendulum keep the center of gravity below the center of buoyancy, this is important to avoid overturning
+    The bottom section serves a dual purpose: electromagnetic power generation and center of gravity management. The array of flat copper induction coils combined with the heavy magnet mass at the end of the pendulum keep the center of gravity below the center of buoyancy, this is important to avoid capsizing.
   </li>
 </ul>
 <br><br>
