@@ -8,9 +8,9 @@ The two source combined provide energy to a battery peak, the battery peak combi
                           ┌───────────────────────────┐         ┌───────────────────────────┐
                           │   Solar Panel + Diode     │         │ Electromagnetic Pendulum  │
                           └─────────────┬─────────────┘         └─────────────┬─────────────┘
-                                                                     │                                     │ (AC)
-                                                                              │                                     ▼
-                                                                              │                       ┌───────────────────────────┐
+                                        │                                     │ (AC)
+                                        │                                     ▼
+                                        │    ┌───────────────────────────┐
                                                                               │                       │      AC-DC Rectifier      │
                                                                               │                       └─────────────┬─────────────┘
                                                                               │                                     │ (DC)
