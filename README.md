@@ -35,7 +35,7 @@ The two sources combined provide energy to a battery pack, the battery peak comb
                      ┌───────────────────────────┐
                      │     ESP32 Sensor Node     │
                      └───────────────────────────┘
-</code></pre>
+</code></pre><br>
 <h2>REPOSITORY STRUCTURE</h2>
 <ul><li>
  <b>assembly:</b> mechanical documentation, circuit diagram and assembling project
