@@ -37,3 +37,24 @@ The two sources combined provide energy to a battery pack, the battery peak comb
                      └───────────────────────────┘
 </code></pre>
 <h2>REPOSITORY STRUCTURE</h2>
+<ul><li>
+ <b>assembly:</b> mechanical documentation, circuit diagram and assembling project
+</li>
+<li>
+ <b>component:</b> link to the product and cost of component
+</li>
+<li>
+ <b>concept:</b> hybrid architecture breakdown and theoretical information
+</li>
+<li>
+ <b>future work:</b> planning future work and upgrading part
+</li>
+<li>
+ <b>location:</b> Vanice lagoon deployment analysis and site condition
+</li>
+<li>
+ <b>reference:</b> accademic papers and background literature
+</li>
+<li>
+ <b>readme.md:</b> main repository overview
+</li></ul>
