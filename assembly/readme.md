@@ -45,4 +45,4 @@ For our prototype, we put a DC motor for this reason we don't need a bridge rect
 <img width="2016" height="1512" alt="IMG_5668" src="https://github.com/user-attachments/assets/5219df6c-582b-4bef-82bf-45c0047870a9" />
 <h2>RESULT</h2>
 The bench tests of this prototype confirm that both the solar panel and the AC motor (pendulum) effectively feed the battery pack. We can put this circuit in a buoy and test the performance. <br>
-It is importanta to analyze the real performance for compare to the energy we wont for the sensor and scale the solar panel and the pendulum to achive the required energy.
+It is important to analyze the real performance for compare to the energy we wont for the sensor and scale the solar panel and the pendulum to achive the required energy.
