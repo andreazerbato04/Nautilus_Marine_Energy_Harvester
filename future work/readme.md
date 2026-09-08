@@ -15,4 +15,4 @@ The Nautilus project has started, but there is more work to do before a real buo
 <br><li>
 <b>Data transmission:</b> implementing a long range communication protocols to transmit data from the buoy to a public dashboard in real time.
 </li><br></ul>
-Once all of this is completed, we can put the buoy in the Venice Lagoon and evaluate is performance and data accuracy over several weeks.
+Once all of this is completed, we can put the buoy in the Venice Lagoon and evaluate its performance and data accuracy over several weeks.
