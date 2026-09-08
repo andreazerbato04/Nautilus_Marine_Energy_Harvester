@@ -1,6 +1,6 @@
 <h1>CONCEPT</h1>
 The Nautilus project is a hybrid architecture, which couples a solar panel with an internal electromagnetic pendulum generator. The selection of this sources is a temporal correlation in energy availability in the Venice lagoon context:<br><br>
-<ul><li><b>Summer peak:</b> strong irradiation during summer period and a calm water with small average height of the wave. In this period the solar panel put the majority of energy.</li>
+<ul><li><b>Summer peak:</b> strong irradiation during summer period and calm water with small average height of the wave. In this period the solar panel put the majority of energy.</li>
 <li><b>Winter and bad weather peak: </b>kinetic energy from wave reach its peak during winter season and fog period, when there is more public and private transportation increasing the wave. In this period the pendulum put the majority of energy.</li></ul>
 The complementarity of this source give us the possibility to significantly reduce the battery storage.
 <h2>TECHNOLOGY SELECTION</h2>
