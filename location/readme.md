@@ -7,5 +7,5 @@ These environmental charachteristics fit our project well, in fact in the Venice
 <h1> THE VENICE RISKS</h1>
 As we say, continuous essential monitoring is essential to protect Venice from its main structural and enviromental hazards.<br><br>
 <ul><li><b>Acqua alta:</b> Venice is subject to frequently flooding and with the increasing of the water depth for the climate change this problem can only increase, collecting information is crucial to understand the flood and managing the MOSE barrier effectively.</li>
-<li><b>Water quality and structural degradation:</b> The alteration of the water quality can speed up the chemical and biological erosion of the city's hystorical foundation. Use water quality sensor allow to trak this change and track the structural risks. </li>
+<li><b>Water quality and structural degradation:</b> The alteration of the water quality can speed up the chemical and biological erosion of the city's historical foundation. Use water quality sensor allow to trak this change and track the structural risks. </li>
 <li><b>Anthropogenic waves:</b> High motorboat traffic creates continuous, high-energy wake waves that directly erode salt marshes and damage palace foundations. Deploying wave sensors helps measure this energy impact in real time.</li></ul>
