@@ -24,7 +24,7 @@
 </ul> 
 If you wish to purchase the exact components used for this project click this <a href="https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/tree/main/components">link </a> <br>
 <h2>CIRCUIT</h2>
-The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes togeter for the DC negative output and two cathodes together for the DC positive output, we connect one cathode and one anode for the last two nodes, this is for the positive and negative polarity of the pendulum, as shown in this picture      <br>       
+The first thing we want to build is the bridge rectifier. We use four Schottky diodes 1N5822 because we want a low voltage drop ≈ 0,3V. We put two anodes together for the DC negative output and two cathodes together for the DC positive output, we connect one cathode and one anode for the last two nodes, this is for the positive and negative polarity of the pendulum, as shown in this picture      <br>       
  <br> 
 <img width="398" height="426" alt="IMG_5563 (1)" src="https://github.com/user-attachments/assets/4844aa12-62c6-4a07-8b76-ff2b87e9e82b" />
  <br>
