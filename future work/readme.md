@@ -1,13 +1,13 @@
 <h1>FUTURE WORK</h1>
-The Nautilus project has started, but there is more work to do before a real buoy can float in the Venice lagoon. We aim to build a community where anyone is welcome to add information, put some data, discuss of his idea or suggest new features.<br> The key areas for the future development include:
+The Nautilus project has started, but there is more work to do before a real buoy can float in the Venice lagoon. We aim to build a community where anyone is welcome to add information, upload data, discuss of his idea or suggest new features.<br> The key areas for the future development include:
 <br><br><ul><li>
- <b> The sensor:</b> selecting and testing the perfect sensor for water quality monitoring, like pH or salinity, and hydrodynamic measurement like wave height and frequency. We have to use a low power sensor and we have to check the energy of the solar panel and the pendulum is enough.
+ <b> The sensor:</b> selecting and testing the perfect sensor for water quality monitoring, like pH or salinity, and hydrodynamic measurements like wave height and frequency. We have to use a low power sensor and we have to check the energy of the solar panel and the pendulum is enough.
 </li>
 <br><li>
-<b>Power optimization:</b> optimize the circuit for a high efficiency harvesting stage for reduce current losses and energy dissipation. Optimize the dual source power management.
+<b>Power optimization:</b> optimizing the circuit for a high efficiency harvesting stage to reduce current losses and energy dissipation. Optimize the dual source power management.
 </li>
  <br><li>
-<b>Pendulum design:</b> create a electromagnetic pendulum architecture to maximize energy harvesting efficiency with compact dimensions.
+<b>Pendulum design:</b> create an electromagnetic pendulum architecture to maximize energy harvesting efficiency with compact dimensions.
 </li>
 <br><li>
 <b>Mechanical buoy design:</b> create a fully waterproof buoy and with a hydrodynamic stability. The focus of the design is on the balance of the buoy and the dimension for maximize the energy from the pendulum.
