@@ -19,7 +19,7 @@
 <li><b>Buck-Boost LM2577S LM2596S:</b> stabilize the voltage on 5 V, the LM2577S act as a boost converter step up the voltage if is too lower and the LM2596S act as a buck converter step down the voltage if is too high. </li>
 <li><b>Solar Panel 5V 5W:</b> generate DC voltage when is exposed to sunlight. </li>
 <li><b>Schottky diode 1N5822:</b> prevent reverse current on the solar panel with a low voltage drop.</li>
-<li><b>TP4056:</b> a module use to safe charging the batteries and monitoring the cells voltage to stay under 4,2V. There is two led the first, the red one, is on if the battery is charging, the second, the blue one, is on if the battery is full charge at 4,2V. </li> 
+<li><b>TP4056:</b> a module use to safe charging the batteries and monitoring the cells voltage to stay under 4,2V. There is two led the first, the red one, is on if the battery is charging, the second, the blue one, is on if the battery is fully charge at 4,2V. </li> 
 <li><b>18650 cells with the holder:</b> a Li-ion batteries utilize to energy storage. </li> 
 </ul> 
 If you wish to purchase the exact components used for this project click this <a href="https://github.com/andreazerbato04/Nautilus_Marine_Energy_Harvester/tree/main/components">link </a> <br>
